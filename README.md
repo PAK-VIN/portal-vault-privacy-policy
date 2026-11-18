@@ -1,4 +1,4 @@
-**PortalVault Privacy Policy**
+# PortalVault Privacy Policy
 
 This privacy policy applies to the PortalVault app for mobile devices, together with any related services operated by Vinny Stark (collectively, the "Application"). Vinny Stark is hereby referred to as the "Service Provider".
 
